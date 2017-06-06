@@ -7,5 +7,4 @@ Playing with eth blocktimes
   'loadScript("./blocktime/collectBlockTimes.js")' attach > blocktimes.csv`
 - At [block 116521](https://etherscan.io/block/116521), there was a consensus
   issue meaning the next block was mined [13013 seconds
-  later](https://etherscan.io/block/116522).  I've left this out of the plots
-  because I was feeling sassy.
+  later](https://etherscan.io/block/116522).  I've left this out of the plots.
